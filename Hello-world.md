@@ -44,4 +44,33 @@ When you open this HTML file in a browser, **"Hello World"** will appear on the 
 
 ---
 
+
+### Using innerHTML
+
+To access an HTML element, you can use the document.getElementById(id) method.
+
+Use the id attribute to identify the HTML element.
+
+Then use the innerHTML property to change the HTML content of the HTML element:
+
+Example
+```
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Web Page</h1>
+<p>My First Paragraph</p>
+
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = "<h2>Hello World</h2>";
+</script>
+
+</body>
+</html>
+```
+---
+
 This is a basic introduction to printing "Hello World" in JavaScript. We will go into more detail about these methods and when to use them later.
