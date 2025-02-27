@@ -8,4 +8,5 @@ This repository contains notes on JavaScript concepts relevant to penetration te
 1️⃣ [What is JavaScript?](what-is-JavaScript.md)  
 2️⃣ [JavaScript Engine](JavaScript-Engine.md)  
 3️⃣ [Hello World in JavaScript](Hello-world.md)
+4️⃣ [JavaScript Comments](JS-Comments)
 ---
