@@ -45,9 +45,9 @@ alert(age); // NaN, conversion failed
 ```
 
 ##### There is Rules For Numeric conversion --> 
-Number(true) --> 1
-Number(false) -->0
-empty String : Number("") --> 0
+Number(true) --> 1  
+Number(false) -->0  
+empty String : Number("") --> 0  
 
 ---
 ### Boolean Conversion
