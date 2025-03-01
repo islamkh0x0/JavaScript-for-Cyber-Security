@@ -16,7 +16,7 @@ This repository contains notes on JavaScript concepts relevant to penetration te
 ### 2️⃣ Core Operations & Data Handling
 - [Basic Operators](Basic-Operators.md)  
 - [Type Conversions](Type-Conversions.md)  
-- [User Interaction](User-Interaction.md)  
+- [User Interaction "Popup Boxes"](User-Interaction.md)  
 
 ### 3️⃣ Control Flow
 - [Conditional Statements](Conditional-Statements.md)  
