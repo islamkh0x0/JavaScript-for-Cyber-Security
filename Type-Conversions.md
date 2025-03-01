@@ -1,4 +1,5 @@
 ## Type conversions (Number(), String(), Boolean()).  
+**Note:** You can try all the code examples in the console log. As mentioned before, any JavaScript code can be executed in the console log.  
 ### String Conversion  
 
 String conversion happens when we need the string form of a value.
