@@ -30,7 +30,13 @@ This repository contains notes on JavaScript concepts relevant to penetration te
 ### 5️⃣ Functions
 - [JavaScript Functions](Functions.md)  
 
-### 6️⃣ Strict Mode & Code Quality
+### 6️⃣ DOM  
+- [Document Object Model](DOM.md)  
+
+### 7️⃣ BOM  
+- [Browser Object Model](BOM.md)
+
+### 8️⃣ Strict Mode & Code Quality
 - ["use strict" Mode](Use-Strict.md)  
 
 ---
