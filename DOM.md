@@ -27,7 +27,7 @@ From a DOM perspective, each HTML element becomes a node in the DOM tree:
 
 Here's an alternative approach to visually represent this hierarchy of nodes.
 
-[DOM Structure](images/DOM1.webp)
+[DOM Structure](images/DOM1.png)
 
 ### **Understanding** `window` and `document`
 
